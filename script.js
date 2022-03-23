@@ -6,4 +6,4 @@ console.log(answers);
 
 const userName = prompt("ismiz nima");
 
-// alert("hello world");
+// alert("hello world")
